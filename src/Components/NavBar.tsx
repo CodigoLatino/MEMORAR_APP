@@ -17,7 +17,7 @@ export const NavBar = () => {
           <div className="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
             <div className="text-sm lg:flex-grow">
               <div>
-                <Link to="/" className="block font-semibold text-xl px-4 py-2 lg:pt-6 lg:pb-4 mt-4 lg:inline-block lg:mt-0 text-typo hover:text-typo-dark hover:bg-back-dark mr-4">
+                <Link to="/" className="block font-semibold text-xl px-4 py-2 lg:pt-6 lg:pb-4 mt-4 lg:inline-block lg:mt-0 text-typo hover:text-typo-dark  hover:bg-hovernav mr-4">
                   Inicio
                 </Link>
               </div>
